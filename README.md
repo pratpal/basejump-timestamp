@@ -6,8 +6,8 @@
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ## Example usage:
-> * https://timestamp-ms.herokuapp.com/December%2015,%202015
-> * https://timestamp-ms.herokuapp.com/1450137600
+> * https://pratpal-timestamp.herokuapp.com/December%2015,%202015
+> * https://pratpal-timestamp.herokuapp.com/1450137600
 
 
 
